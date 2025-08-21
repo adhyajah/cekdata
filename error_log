@@ -1,0 +1,10 @@
+[20-Aug-2025 19:32:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function map_columns() in /home/u4593830/public_html/sman6jambi.sch.id/cek/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/u4593830/public_html/sman6jambi.sch.id/cek/index.php on line 15
+[20-Aug-2025 19:32:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function map_columns() in /home/u4593830/public_html/sman6jambi.sch.id/cek/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/u4593830/public_html/sman6jambi.sch.id/cek/index.php on line 15
+[20-Aug-2025 19:34:53 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/u4593830/public_html/sman6jambi.sch.id/cek/vendor/composer/platform_check.php on line 24
+[20-Aug-2025 20:27:44 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/u4593830/public_html/sman6jambi.sch.id/cek/vendor/composer/platform_check.php on line 24
